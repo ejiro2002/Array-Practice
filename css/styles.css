@@ -1,0 +1,38 @@
+body{
+    background-image: url(/img/stones.webp);
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.jumbotron{
+    background-color: rgba(187, 222, 134, 0.701);
+    padding: 15px;
+    margin: 10px 400px;
+    border-radius: 10px;
+}
+
+#user{
+    display: flex;
+    margin-left: 10%;
+    align-items: center;
+}
+
+.btn{
+    margin-left: 48%;
+}
+
+hr{
+    border: solid 1px;
+    margin-top: 20px;
+}
+
+#list{
+    padding: 30px;
+    background-color: rgba(83, 99, 60, 0.701);
+    margin: 50px, 350px;
+    list-style: none;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: x-large;
+    font-weight: 700;
+    
+}
